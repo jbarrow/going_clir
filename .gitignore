@@ -1,0 +1,16 @@
+*~
+
+*.txt
+*.fr
+*.en
+qrels*
+*.csv
+*.pkl
+*.results
+*.json
+
+.data/
+.ipynb_checkpoints/
+.vector_cache/
+
+__pycache__/
